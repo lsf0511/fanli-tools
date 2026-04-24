@@ -68,9 +68,10 @@ function pickBg(idx: number): string {
 }
 
 async function switchTab(page: Page, label: string): Promise<void> {
-  const btn = page.locator(`button:has-text("${label}")`).first();
+  // Use .tab-item class to avoid matching category buttons that share text
+  const btn = page.locator(`button.tab-item:has-text("${label}")`).first();
   await btn.click();
-  await page.waitForTimeout(800);
+  await page.waitForTimeout(900);
 }
 
 async function scrapeTab(page: Page, tabLabel: string, hasFilter: boolean): Promise<{ categories: string[]; tools: RawTool[] }> {
@@ -78,8 +79,8 @@ async function scrapeTab(page: Page, tabLabel: string, hasFilter: boolean): Prom
 
   let categories: string[] = [];
   if (hasFilter) {
-    const filterButtons = await page.locator('button:has-text("(")').allTextContents();
-    categories = filterButtons
+    const filterTexts = await page.locator("button.category-btn").allTextContents();
+    categories = filterTexts
       .map((t) => t.replace(/\s*\(\d+\)\s*$/, "").trim())
       .filter((t) => t && t !== "全部")
       .filter((t, i, arr) => arr.indexOf(t) === i);
@@ -87,28 +88,23 @@ async function scrapeTab(page: Page, tabLabel: string, hasFilter: boolean): Prom
 
   const tools = await page.evaluate(() => {
     const out: Array<{ name: string; description: string; category?: string; url: string }> = [];
-    const nodes = document.querySelectorAll<HTMLElement>('a[href^="http"], [role="button"]');
+    const cards = document.querySelectorAll<HTMLElement>(".tool-card");
     const seen = new Set<string>();
-    nodes.forEach((el) => {
-      const text = el.innerText.trim();
-      if (!text) return;
-      const lines = text.split("\n").map((s) => s.trim()).filter(Boolean);
-      if (lines.length < 2) return;
-      const [name, ...rest] = lines;
-      let category: string | undefined;
-      let descLines = rest;
-      const lastLine = rest[rest.length - 1];
-      if (lastLine && lastLine.length <= 12 && !lastLine.match(/[，。,!?！？]/)) {
-        category = lastLine;
-        descLines = rest.slice(0, -1);
-      }
-      const description = descLines.join("").trim();
-      if (!name || !description) return;
+    cards.forEach((card) => {
+      const name = card.querySelector<HTMLElement>(".tool-card-title")?.innerText.trim() || "";
+      const description = card.querySelector<HTMLElement>(".tool-card-description")?.innerText.trim() || "";
+      const category = card.querySelector<HTMLElement>(".tool-card-category")?.innerText.trim() || undefined;
+      if (!name) return;
+      // URL: cards are click-handler divs. Try data attrs / nested <a> just in case.
+      const anchor = card.querySelector<HTMLAnchorElement>('a[href^="http"]');
+      const url = anchor?.href
+        || card.getAttribute("data-href")
+        || card.getAttribute("data-url")
+        || "";
       const dedupKey = name + "|" + description;
       if (seen.has(dedupKey)) return;
       seen.add(dedupKey);
-      const href = el.getAttribute("href") || "";
-      out.push({ name, description, category, url: href });
+      out.push({ name, description, category, url });
     });
     return out;
   });

@@ -1,0 +1,81 @@
+{
+  "name": "MCP",
+  "hasCategoryFilter": false,
+  "hasSideMenu": false,
+  "showCategoryBadge": false,
+  "categories": [],
+  "tools": [
+    {
+      "id": "mcp-官方仓库-0",
+      "name": "MCP 官方仓库",
+      "description": "官方服务器列表、规范文档、示例代码，获取权威标准与官方示例",
+      "url": "",
+      "iconType": "text",
+      "iconText": "M",
+      "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
+    },
+    {
+      "id": "smithery-1",
+      "name": "Smithery",
+      "description": "4000+ MCP服务器注册表，按功能分类检索，快速找工具、复制安装命令",
+      "url": "",
+      "iconType": "text",
+      "iconText": "S",
+      "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
+    },
+    {
+      "id": "cursor-directory-2",
+      "name": "Cursor Directory",
+      "description": "面向Cursor编辑器的MCP服务器专区，无缝集成IDE",
+      "url": "",
+      "iconType": "text",
+      "iconText": "C",
+      "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
+    },
+    {
+      "id": "glama-mcp-3",
+      "name": "Glama MCP",
+      "description": "多模型兼容MCP平台，3500+服务器，统一账号、权限管理",
+      "url": "",
+      "iconType": "text",
+      "iconText": "G",
+      "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
+    },
+    {
+      "id": "mcp-so-4",
+      "name": "mcp.so",
+      "description": "全球MCP资源聚合平台，分类导航，一站式发现优质服务器",
+      "url": "",
+      "iconType": "text",
+      "iconText": "M",
+      "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
+    },
+    {
+      "id": "reddit-r-mcp-5",
+      "name": "Reddit r/MCP",
+      "description": "社区讨论、新工具分享、问题求助，获取最新动态",
+      "url": "",
+      "iconType": "text",
+      "iconText": "R",
+      "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
+    },
+    {
+      "id": "mcp-导航站-6",
+      "name": "MCP 导航站",
+      "description": "汇总主流MCP平台链接，快速跳转，生态入口",
+      "url": "",
+      "iconType": "text",
+      "iconText": "M",
+      "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
+    },
+    {
+      "id": "mcp-run-7",
+      "name": "mcp.run",
+      "description": "云端部署MCP服务器，无需本地环境，快速原型验证",
+      "url": "",
+      "iconType": "text",
+      "iconText": "M",
+      "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
+    }
+  ]
+}

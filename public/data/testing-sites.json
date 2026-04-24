@@ -1,0 +1,81 @@
+{
+  "name": "软件测试学习网站",
+  "hasCategoryFilter": false,
+  "hasSideMenu": false,
+  "showCategoryBadge": false,
+  "categories": [],
+  "tools": [
+    {
+      "id": "51testing测试网-0",
+      "name": "51Testing测试网",
+      "description": "国内老牌测试社区，含教程、资源下载、招聘、问题交流，覆盖入门到高级全阶段",
+      "url": "",
+      "iconType": "text",
+      "iconText": "5",
+      "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
+    },
+    {
+      "id": "测试窝-1",
+      "name": "测试窝",
+      "description": "专注软件测试实战，含自动化/性能/安全测试教程、工具分享、行业资讯，内容偏实战落地",
+      "url": "",
+      "iconType": "text",
+      "iconText": "测",
+      "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
+    },
+    {
+      "id": "infoq-2",
+      "name": "InfoQ",
+      "description": "前沿技术资讯平台，含测试架构、AI赋能测试、测试工程化落地等深度文章，适合中高级测试工程师进阶",
+      "url": "",
+      "iconType": "text",
+      "iconText": "I",
+      "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
+    },
+    {
+      "id": "owasp官网-3",
+      "name": "OWASP官网",
+      "description": "安全测试权威指南，提供最新Web/移动端安全漏洞标准、测试方法、工具，安全测试必备",
+      "url": "",
+      "iconType": "text",
+      "iconText": "O",
+      "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
+    },
+    {
+      "id": "stack-overflow-4",
+      "name": "Stack Overflow",
+      "description": "全球最大技术问答社区，解决自动化测试、工具使用、代码编写等各类问题，答案精准全面",
+      "url": "",
+      "iconType": "text",
+      "iconText": "S",
+      "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
+    },
+    {
+      "id": "掘金-5",
+      "name": "掘金",
+      "description": "国内主流技术社区，测试板块含大量实战文章、框架教程、AI测试落地案例，适合碎片化学习",
+      "url": "",
+      "iconType": "text",
+      "iconText": "掘",
+      "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
+    },
+    {
+      "id": "csdn-6",
+      "name": "CSDN",
+      "description": "国内最大IT技术社区，测试板块内容丰富，从入门到进阶教程全覆盖，适合解决实际工作问题",
+      "url": "",
+      "iconType": "text",
+      "iconText": "C",
+      "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
+    },
+    {
+      "id": "apache测试工具库-7",
+      "name": "Apache测试工具库",
+      "description": "Apache官方开源测试工具汇总，获取JMeter/Selenium等工具的官方文档、最新版本，保证兼容性",
+      "url": "",
+      "iconType": "text",
+      "iconText": "A",
+      "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
+    }
+  ]
+}

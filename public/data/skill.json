@@ -1,0 +1,99 @@
+{
+  "name": "Skill",
+  "hasCategoryFilter": false,
+  "hasSideMenu": false,
+  "showCategoryBadge": false,
+  "categories": [],
+  "tools": [
+    {
+      "id": "anthropic-skills-github-0",
+      "name": "Anthropic Skills GitHub",
+      "description": "官方标准与最佳实践，代码质量高、文档完整、兼容性强，16+官方示例，持续维护",
+      "url": "",
+      "iconType": "text",
+      "iconText": "A",
+      "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
+    },
+    {
+      "id": "skillsmp-1",
+      "name": "SkillsMP",
+      "description": "最大技能市场，语义搜索、多平台兼容、SKILL.md标准，80,000+技能，每日更新",
+      "url": "",
+      "iconType": "text",
+      "iconText": "S",
+      "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
+    },
+    {
+      "id": "活水插件-2",
+      "name": "活水插件",
+      "description": "专为Claude设计的插件平台，提供丰富的外部工具集成，扩展AI能力边界",
+      "url": "",
+      "iconType": "text",
+      "iconText": "活",
+      "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
+    },
+    {
+      "id": "awesome-claude-skills-3",
+      "name": "awesome-claude-skills",
+      "description": "社区整理的Claude Skills精选集合，汇总优质技能和资源，方便探索使用",
+      "url": "",
+      "iconType": "text",
+      "iconText": "A",
+      "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
+    },
+    {
+      "id": "composiohq-awesome-claude-skills-4",
+      "name": "ComposioHQ awesome-claude-skills",
+      "description": "社区标杆，覆盖生产力、开发、创作等全场景，16.5k+ star，高频更新",
+      "url": "",
+      "iconType": "text",
+      "iconText": "C",
+      "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
+    },
+    {
+      "id": "claude-skills-api文档-5",
+      "name": "Claude Skills API文档",
+      "description": "Anthropic官方的Skills API技术文档，详细说明技能配置与开发接口",
+      "url": "",
+      "iconType": "text",
+      "iconText": "C",
+      "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
+    },
+    {
+      "id": "aitmpl-skills-6",
+      "name": "AITMPL Skills",
+      "description": "场景化模板，即用型工作流，适合快速落地，批量报告、数据整理等场景化需求",
+      "url": "",
+      "iconType": "text",
+      "iconText": "A",
+      "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
+    },
+    {
+      "id": "claude-marketplaces-7",
+      "name": "Claude Marketplaces",
+      "description": "聚合全网技能，发现新兴资源，热度追踪，探索新技能、趋势分析，每日更新",
+      "url": "",
+      "iconType": "text",
+      "iconText": "C",
+      "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
+    },
+    {
+      "id": "skillhub-8",
+      "name": "SkillHub",
+      "description": "AI评估评分，质量筛选，按评分/热度排序，追求高质量、低筛选成本，7,000+精选技能",
+      "url": "",
+      "iconType": "text",
+      "iconText": "S",
+      "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
+    },
+    {
+      "id": "agent-skills-md-9",
+      "name": "Agent-Skills.md",
+      "description": "结构化技能市场，SKILL.md标准，下载即用，标准化技能管理、跨平台复用",
+      "url": "",
+      "iconType": "text",
+      "iconText": "A",
+      "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
+    }
+  ]
+}
