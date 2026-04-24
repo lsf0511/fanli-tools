@@ -76,15 +76,6 @@
       "iconType": "text",
       "iconText": "A",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
-    },
-    {
-      "id": "new-mocojb09",
-      "name": "测试小李",
-      "description": "测试",
-      "url": "",
-      "iconType": "text",
-      "iconText": "测",
-      "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
     }
   ]
 }
