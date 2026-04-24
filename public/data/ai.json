@@ -35,7 +35,7 @@
       "name": "Claude",
       "description": "主打长文本处理与安全合规，支持100k+上下文窗口，适合文档分析、代码审计",
       "category": "AI工具",
-      "url": "https://anthropic.com",
+      "url": "https://claude.ai/",
       "iconType": "text",
       "iconText": "C",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
