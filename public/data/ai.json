@@ -25,7 +25,7 @@
       "name": "ChatGPT",
       "description": "基于GPT架构的多模态大模型，支持文本生成、代码编写、逻辑推理、多轮对话",
       "category": "AI工具",
-      "url": "",
+      "url": "https://chat.openai.com",
       "iconType": "text",
       "iconText": "C",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -45,7 +45,7 @@
       "name": "文心一言",
       "description": "国内自研大模型，支持中文语境下的文本创作、代码生成、多模态交互",
       "category": "AI工具",
-      "url": "",
+      "url": "https://yiyan.baidu.com",
       "iconType": "text",
       "iconText": "文",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -55,7 +55,7 @@
       "name": "通义千问",
       "description": "阿里达摩院研发的大模型，擅长电商、企业服务场景，支持多轮对话、文档总结",
       "category": "AI工具",
-      "url": "",
+      "url": "https://tongyi.aliyun.com",
       "iconType": "text",
       "iconText": "通",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -65,7 +65,7 @@
       "name": "Gemini",
       "description": "多模态大模型，支持文本、图像、音频、视频输入，擅长复杂推理与实时联网",
       "category": "AI工具",
-      "url": "",
+      "url": "https://gemini.google.com",
       "iconType": "text",
       "iconText": "G",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -75,7 +75,7 @@
       "name": "豆包",
       "description": "中文语境优化，支持多轮对话、代码生成、文档分析，集成搜索与插件",
       "category": "AI工具",
-      "url": "",
+      "url": "https://www.doubao.com",
       "iconType": "text",
       "iconText": "豆",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -105,7 +105,7 @@
       "name": "Midjourney",
       "description": "主打高质量图像生成，擅长艺术创作、场景设计、产品原型，细节丰富、风格多样",
       "category": "AI图像",
-      "url": "",
+      "url": "https://www.midjourney.com",
       "iconType": "text",
       "iconText": "M",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -125,7 +125,7 @@
       "name": "DALL·E 3",
       "description": "集成于ChatGPT，支持精准文本到图像生成，可根据自然语言描述生成复杂场景",
       "category": "AI图像",
-      "url": "",
+      "url": "https://openai.com/dall-e-3",
       "iconType": "text",
       "iconText": "D",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -135,7 +135,7 @@
       "name": "绘蛙",
       "description": "AI电商营销工具，免费生成商品图",
       "category": "AI图像",
-      "url": "",
+      "url": "https://www.huiwa.ai",
       "iconType": "text",
       "iconText": "绘",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -175,7 +175,7 @@
       "name": "即梦",
       "description": "抖音免费AI图像工具，图像生成平台",
       "category": "AI图像",
-      "url": "",
+      "url": "https://jimeng.jianying.com",
       "iconType": "text",
       "iconText": "即",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -195,7 +195,7 @@
       "name": "稿定AI",
       "description": "一站式AI设计工具，图像和设计生成",
       "category": "AI图像",
-      "url": "",
+      "url": "https://www.gaoding.com",
       "iconType": "text",
       "iconText": "稿",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -205,7 +205,7 @@
       "name": "阿贝智能",
       "description": "一站式AI绘本创作工具，图片生成",
       "category": "AI图像",
-      "url": "",
+      "url": "https://www.abeiai.com",
       "iconType": "text",
       "iconText": "阿",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -225,7 +225,7 @@
       "name": "司吐司AI",
       "description": "AI绘画模型社区，模型分享平台",
       "category": "AI图像",
-      "url": "",
+      "url": "https://www.seetoos.com",
       "iconType": "text",
       "iconText": "司",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -245,7 +245,7 @@
       "name": "RunningHub",
       "description": "基于云端ComfyUI的AI图像生成平台",
       "category": "AI图像",
-      "url": "",
+      "url": "https://www.runninghub.cn",
       "iconType": "text",
       "iconText": "R",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -255,7 +255,7 @@
       "name": "通义万相",
       "description": "阿里巴巴AI创意工具，图像生成平台",
       "category": "AI图像",
-      "url": "",
+      "url": "https://tongyi.aliyun.com/wanxiang",
       "iconType": "text",
       "iconText": "通",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -265,7 +265,7 @@
       "name": "可灵AI",
       "description": "快手AI图像工具，图像生成平台",
       "category": "AI图像",
-      "url": "",
+      "url": "https://klingai.com",
       "iconType": "text",
       "iconText": "可",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -315,7 +315,7 @@
       "name": "AI改图神器",
       "description": "AI在线图像编辑工具，智能图像处理",
       "category": "AI图像",
-      "url": "",
+      "url": "https://www.aigaitushenqi.com",
       "iconType": "text",
       "iconText": "A",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -325,7 +325,7 @@
       "name": "秒绘AI",
       "description": "一键生成热门图文，AI图像生成",
       "category": "AI图像",
-      "url": "",
+      "url": "https://www.miaohua.com",
       "iconType": "text",
       "iconText": "秒",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -335,7 +335,7 @@
       "name": "妙话AI",
       "description": "为内容创作者设计的AI图像工具",
       "category": "AI图像",
-      "url": "",
+      "url": "https://www.miaohua.ai",
       "iconType": "text",
       "iconText": "妙",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -345,7 +345,7 @@
       "name": "炉米Lumi",
       "description": "字节跳动推出的AI图像工具",
       "category": "AI图像",
-      "url": "",
+      "url": "https://lumi.lumiai.com",
       "iconType": "text",
       "iconText": "炉",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -465,7 +465,7 @@
       "name": "即梦AI",
       "description": "一站式AI视频和图像工具，视频生成平台",
       "category": "AI视频",
-      "url": "",
+      "url": "https://jimeng.jianying.com",
       "iconType": "text",
       "iconText": "即",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -475,7 +475,7 @@
       "name": "绘蛙AI视频",
       "description": "AI图像生成工具，支持视频创作",
       "category": "AI视频",
-      "url": "",
+      "url": "https://www.huiwa.ai",
       "iconType": "text",
       "iconText": "绘",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -595,7 +595,7 @@
       "name": "Sora",
       "description": "OpenAI推出的AI视频生成工具，高质量视频生成",
       "category": "AI视频",
-      "url": "",
+      "url": "https://openai.com/sora",
       "iconType": "text",
       "iconText": "S",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -655,7 +655,7 @@
       "name": "通义万相AI视频",
       "description": "通义万相AI视频生成工具",
       "category": "AI视频",
-      "url": "",
+      "url": "https://tongyi.aliyun.com/wanxiang",
       "iconType": "text",
       "iconText": "通",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
