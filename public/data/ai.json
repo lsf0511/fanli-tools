@@ -35,7 +35,7 @@
       "name": "Claude",
       "description": "主打长文本处理与安全合规，支持100k+上下文窗口，适合文档分析、代码审计",
       "category": "AI工具",
-      "url": "",
+      "url": "https://anthropic.com",
       "iconType": "text",
       "iconText": "C",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -85,7 +85,7 @@
       "name": "Kimi",
       "description": "月之暗面出品，支持超长上下文分析的AI助手",
       "category": "AI工具",
-      "url": "",
+      "url": "https://kimi.moonshot.cn",
       "iconType": "text",
       "iconText": "K",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -95,7 +95,7 @@
       "name": "DeepSeek",
       "description": "国内领先的开源大模型，逻辑推理能力强",
       "category": "AI工具",
-      "url": "",
+      "url": "https://deepseek.com",
       "iconType": "text",
       "iconText": "D",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -115,7 +115,7 @@
       "name": "Stable Diffusion",
       "description": "开源文生图模型，支持本地化部署，可自由调整生成参数，适配多种风格",
       "category": "AI图像",
-      "url": "",
+      "url": "https://stability.ai",
       "iconType": "text",
       "iconText": "S",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -145,7 +145,7 @@
       "name": "LiblibAI",
       "description": "一站式AI内容创作生成平台",
       "category": "AI图像",
-      "url": "",
+      "url": "https://liblib.ai",
       "iconType": "text",
       "iconText": "L",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -155,7 +155,7 @@
       "name": "堆友AI",
       "description": "免费AI绘画和生图神器",
       "category": "AI图像",
-      "url": "",
+      "url": "https://duiyou.com",
       "iconType": "text",
       "iconText": "堆",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -165,7 +165,7 @@
       "name": "美图设计室",
       "description": "AI图像创作和设计平台",
       "category": "AI图像",
-      "url": "",
+      "url": "https://design.meitu.com",
       "iconType": "text",
       "iconText": "美",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -185,7 +185,7 @@
       "name": "堆友AI反应堆",
       "description": "阿里巴巴堆友推出的多款AI工具集合",
       "category": "AI图像",
-      "url": "",
+      "url": "https://duiyou.com",
       "iconType": "text",
       "iconText": "堆",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -215,7 +215,7 @@
       "name": "Civitai",
       "description": "免费AI图像绘画，模型社区",
       "category": "AI图像",
-      "url": "",
+      "url": "https://civitai.com",
       "iconType": "text",
       "iconText": "C",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -235,7 +235,7 @@
       "name": "造点AI",
       "description": "夸克团队推出的AI工具，图像生成",
       "category": "AI图像",
-      "url": "",
+      "url": "https://zaodian.ai",
       "iconType": "text",
       "iconText": "造",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -275,7 +275,7 @@
       "name": "秒画",
       "description": "商汤科技免费AI图像生成工具",
       "category": "AI图像",
-      "url": "",
+      "url": "https://miaohua.ai",
       "iconType": "text",
       "iconText": "秒",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -285,7 +285,7 @@
       "name": "WHEE",
       "description": "美图AI图像工具，图像生成平台",
       "category": "AI图像",
-      "url": "",
+      "url": "https://whee.com",
       "iconType": "text",
       "iconText": "W",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -295,7 +295,7 @@
       "name": "呜哩",
       "description": "阿里巴巴AIGC工具，内容生成平台",
       "category": "AI图像",
-      "url": "",
+      "url": "https://wuli.ai",
       "iconType": "text",
       "iconText": "呜",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -305,7 +305,7 @@
       "name": "insMind",
       "description": "稿定全球市场版，AI图像设计工具",
       "category": "AI图像",
-      "url": "",
+      "url": "https://insmind.com",
       "iconType": "text",
       "iconText": "I",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -355,7 +355,7 @@
       "name": "Krea AI",
       "description": "实时AI图像和视频生成工具",
       "category": "AI图像",
-      "url": "",
+      "url": "https://krea.ai",
       "iconType": "text",
       "iconText": "K",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -365,7 +365,7 @@
       "name": "Kira",
       "description": "AI图像生成和编辑工具",
       "category": "AI图像",
-      "url": "",
+      "url": "https://kira.ai",
       "iconType": "text",
       "iconText": "K",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -375,7 +375,7 @@
       "name": "Photoroom",
       "description": "在线AI图像编辑工具，背景移除和优化",
       "category": "AI图像",
-      "url": "",
+      "url": "https://photoroom.com",
       "iconType": "text",
       "iconText": "P",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -385,7 +385,7 @@
       "name": "Ribbet.ai",
       "description": "免费多功能AI图像工具，图像处理",
       "category": "AI图像",
-      "url": "",
+      "url": "https://ribbet.ai",
       "iconType": "text",
       "iconText": "R",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -395,7 +395,7 @@
       "name": "万相营造",
       "description": "阿里巴巴推出的多款AI工具集合",
       "category": "AI图像",
-      "url": "",
+      "url": "https://wanxiang.com",
       "iconType": "text",
       "iconText": "万",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -405,7 +405,7 @@
       "name": "悟空图像",
       "description": "新一代专业图像处理工具，AI图像编辑",
       "category": "AI图像",
-      "url": "",
+      "url": "https://wukong.com",
       "iconType": "text",
       "iconText": "悟",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -415,7 +415,7 @@
       "name": "360智图",
       "description": "360推出的AI绘画工具，图像生成",
       "category": "AI图像",
-      "url": "",
+      "url": "https://360.com",
       "iconType": "text",
       "iconText": "3",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -425,7 +425,7 @@
       "name": "Runway Gen-2",
       "description": "AI视频生成工具，支持文本生视频、图像转视频、风格迁移，适合短视频创作",
       "category": "AI视频",
-      "url": "",
+      "url": "https://runwayml.com",
       "iconType": "text",
       "iconText": "R",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -435,7 +435,7 @@
       "name": "Synthesia",
       "description": "企业级数字人视频平台，支持文本转视频、多语言配音，提供100+虚拟形象",
       "category": "AI视频",
-      "url": "",
+      "url": "https://synthesia.io",
       "iconType": "text",
       "iconText": "S",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -445,7 +445,7 @@
       "name": "Luma AI",
       "description": "实时3D内容生成工具，支持文本生3D、图像转3D，适配游戏开发、产品设计",
       "category": "AI视频",
-      "url": "",
+      "url": "https://lumalabs.ai",
       "iconType": "text",
       "iconText": "L",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -455,7 +455,7 @@
       "name": "Luma Dream",
       "description": "生成极具真实感的AI视频",
       "category": "AI视频",
-      "url": "",
+      "url": "https://lumalabs.ai",
       "iconType": "text",
       "iconText": "L",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -485,7 +485,7 @@
       "name": "Vidu",
       "description": "生数科技推出的AI视频生成工具",
       "category": "AI视频",
-      "url": "",
+      "url": "https://vidu.ai",
       "iconType": "text",
       "iconText": "V",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -495,7 +495,7 @@
       "name": "堆友AI视频",
       "description": "堆友AI免费视频生成工具",
       "category": "AI视频",
-      "url": "",
+      "url": "https://duiyou.com",
       "iconType": "text",
       "iconText": "堆",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -505,7 +505,7 @@
       "name": "SoundView",
       "description": "Sora视频水印移除工具，视频处理",
       "category": "AI视频",
-      "url": "",
+      "url": "https://soundview.com",
       "iconType": "text",
       "iconText": "S",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -515,7 +515,7 @@
       "name": "白日梦",
       "description": "领先AI创作平台，视频和图像生成",
       "category": "AI视频",
-      "url": "",
+      "url": "https://bairimeng.com",
       "iconType": "text",
       "iconText": "白",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -525,7 +525,7 @@
       "name": "Pollo AI",
       "description": "一站式AI图像和视频工具，内容生成",
       "category": "AI视频",
-      "url": "",
+      "url": "https://pollo.ai",
       "iconType": "text",
       "iconText": "P",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -535,7 +535,7 @@
       "name": "有言",
       "description": "一站式AI视频创作工具，视频生成平台",
       "category": "AI视频",
-      "url": "",
+      "url": "https://youyan.com",
       "iconType": "text",
       "iconText": "有",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -545,7 +545,7 @@
       "name": "HeyGen",
       "description": "专业AI数字人视频工具，虚拟形象生成",
       "category": "AI视频",
-      "url": "",
+      "url": "https://heygen.com",
       "iconType": "text",
       "iconText": "H",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -555,7 +555,7 @@
       "name": "蝉镜",
       "description": "AI数字人视频生成工具，虚拟形象",
       "category": "AI视频",
-      "url": "",
+      "url": "https://chanjing.com",
       "iconType": "text",
       "iconText": "蝉",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -565,7 +565,7 @@
       "name": "魔珐星云",
       "description": "具身智能3D数字内容生成，虚拟形象",
       "category": "AI视频",
-      "url": "",
+      "url": "https://mofaxingyun.com",
       "iconType": "text",
       "iconText": "魔",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -575,7 +575,7 @@
       "name": "海螺视频",
       "description": "MiniMax公司推出的AI视频生成工具",
       "category": "AI视频",
-      "url": "",
+      "url": "https://hailuo.com",
       "iconType": "text",
       "iconText": "海",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -585,7 +585,7 @@
       "name": "Keevx",
       "description": "开箱即用AI数字工具，视频生成",
       "category": "AI视频",
-      "url": "",
+      "url": "https://keevx.com",
       "iconType": "text",
       "iconText": "K",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -605,7 +605,7 @@
       "name": "JoyPix",
       "description": "AI数字人创作工具，虚拟形象生成",
       "category": "AI视频",
-      "url": "",
+      "url": "https://joypix.com",
       "iconType": "text",
       "iconText": "J",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -615,7 +615,7 @@
       "name": "献丑AI",
       "description": "首个AI视频开源工具，视频生成平台",
       "category": "AI视频",
-      "url": "",
+      "url": "https://xianchou.ai",
       "iconType": "text",
       "iconText": "献",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -625,7 +625,7 @@
       "name": "MochiAni",
       "description": "AI动画视频创作工具，动画生成",
       "category": "AI视频",
-      "url": "",
+      "url": "https://mochiani.com",
       "iconType": "text",
       "iconText": "M",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -635,7 +635,7 @@
       "name": "NextCut AI",
       "description": "AI视频创作工具，视频生成和编辑",
       "category": "AI视频",
-      "url": "",
+      "url": "https://nextcut.ai",
       "iconType": "text",
       "iconText": "N",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -645,7 +645,7 @@
       "name": "腾讯混元AI视频",
       "description": "腾讯推出的AI视频生成工具",
       "category": "AI视频",
-      "url": "",
+      "url": "https://tencent.com",
       "iconType": "text",
       "iconText": "腾",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -665,7 +665,7 @@
       "name": "雾象",
       "description": "免费开源AI动画工具，动画生成",
       "category": "AI视频",
-      "url": "",
+      "url": "https://wuxiang.com",
       "iconType": "text",
       "iconText": "雾",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -675,7 +675,7 @@
       "name": "造次",
       "description": "AI原创IP视频社区，视频创作平台",
       "category": "AI视频",
-      "url": "",
+      "url": "https://zaoci.com",
       "iconType": "text",
       "iconText": "造",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -685,7 +685,7 @@
       "name": "花生AI",
       "description": "B站推出的AI视频生成工具",
       "category": "AI视频",
-      "url": "",
+      "url": "https://huasheng.ai",
       "iconType": "text",
       "iconText": "花",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -695,7 +695,7 @@
       "name": "云幕同声",
       "description": "专业AI视频翻译工具，多语言视频处理",
       "category": "AI视频",
-      "url": "",
+      "url": "https://yunmutongsheng.com",
       "iconType": "text",
       "iconText": "云",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -705,7 +705,7 @@
       "name": "萌动!",
       "description": "全球首款ACG工具，动画、漫画、游戏内容生成",
       "category": "AI视频",
-      "url": "",
+      "url": "https://mengdong.com",
       "iconType": "text",
       "iconText": "萌",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -715,7 +715,7 @@
       "name": "Higgsfield",
       "description": "AI视频生成工具，高质量视频创作",
       "category": "AI视频",
-      "url": "",
+      "url": "https://higgsfield.com",
       "iconType": "text",
       "iconText": "H",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -725,7 +725,7 @@
       "name": "蛙蛙写作",
       "description": "AI小说和内容创作工具",
       "category": "AI写作",
-      "url": "",
+      "url": "https://wawaxiezuo.com",
       "iconType": "text",
       "iconText": "蛙",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -735,7 +735,7 @@
       "name": "讯飞绘文",
       "description": "免费AI写作工具，5分钟生成一篇原创稿",
       "category": "AI写作",
-      "url": "",
+      "url": "https://xfyun.cn",
       "iconType": "text",
       "iconText": "讯",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -745,7 +745,7 @@
       "name": "笔灵AI写作",
       "description": "600+写作模板、AI一键生成论文/小说，论文降重降AI",
       "category": "AI写作",
-      "url": "",
+      "url": "https://bilingai.com",
       "iconType": "text",
       "iconText": "笔",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -755,7 +755,7 @@
       "name": "稿定AI文案",
       "description": "小红书、公众号、短视频AI文案生成工具",
       "category": "AI写作",
-      "url": "",
+      "url": "https://gaoding.com",
       "iconType": "text",
       "iconText": "稿",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -765,7 +765,7 @@
       "name": "新华妙笔",
       "description": "新华社推出的AI写作系统，专业新闻写作",
       "category": "AI写作",
-      "url": "",
+      "url": "https://xinhua-miaobi.com",
       "iconType": "text",
       "iconText": "新",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -775,7 +775,7 @@
       "name": "笔灵AI小说",
       "description": "一键生成完整小说，AI小说创作工具",
       "category": "AI写作",
-      "url": "",
+      "url": "https://bilingai.com",
       "iconType": "text",
       "iconText": "笔",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -785,7 +785,7 @@
       "name": "Paperpal",
       "description": "英文论文写作助手，学术写作专业工具",
       "category": "AI写作",
-      "url": "",
+      "url": "https://paperpal.com",
       "iconType": "text",
       "iconText": "P",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -795,7 +795,7 @@
       "name": "笔目鱼",
       "description": "专业英文论文写作工具，学术写作助手",
       "category": "AI写作",
-      "url": "",
+      "url": "https://bimuyu.com",
       "iconType": "text",
       "iconText": "笔",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -805,7 +805,7 @@
       "name": "稿易AI论文",
       "description": "AI论文写作助手，快速生成学术论文",
       "category": "AI写作",
-      "url": "",
+      "url": "https://gaoyiai.com",
       "iconType": "text",
       "iconText": "稿",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -815,7 +815,7 @@
       "name": "千笔AI论文",
       "description": "全网首款不限量论文工具，AI论文生成",
       "category": "AI写作",
-      "url": "",
+      "url": "https://qianbi.ai",
       "iconType": "text",
       "iconText": "千",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -825,7 +825,7 @@
       "name": "66AI论文",
       "description": "高质量低查重论文生成工具",
       "category": "AI写作",
-      "url": "",
+      "url": "https://66ai.com",
       "iconType": "text",
       "iconText": "6",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -835,7 +835,7 @@
       "name": "维普科创助手",
       "description": "维普一站式AI科研助手，科研写作工具",
       "category": "AI写作",
-      "url": "",
+      "url": "https://vip.com",
       "iconType": "text",
       "iconText": "维",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -845,7 +845,7 @@
       "name": "沁言学术",
       "description": "AI科研写作平台，学术论文助手",
       "category": "AI写作",
-      "url": "",
+      "url": "https://qinyan.com",
       "iconType": "text",
       "iconText": "沁",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -855,7 +855,7 @@
       "name": "茅茅虫",
       "description": "一站式AI论文写作工具，论文生成助手",
       "category": "AI写作",
-      "url": "",
+      "url": "https://maomaochong.com",
       "iconType": "text",
       "iconText": "茅",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -865,7 +865,7 @@
       "name": "GetDraft",
       "description": "多AI专家协作，专业内容创作",
       "category": "AI写作",
-      "url": "",
+      "url": "https://getdraft.ai",
       "iconType": "text",
       "iconText": "G",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -875,7 +875,7 @@
       "name": "光速写作",
       "description": "AI写作和PPT生成工具，快速创作",
       "category": "AI写作",
-      "url": "",
+      "url": "https://guangsuxiezuo.com",
       "iconType": "text",
       "iconText": "光",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -885,7 +885,7 @@
       "name": "YouMind",
       "description": "提升创作效率的AI写作工具",
       "category": "AI写作",
-      "url": "",
+      "url": "https://youmind.ai",
       "iconType": "text",
       "iconText": "Y",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -895,7 +895,7 @@
       "name": "万能小in",
       "description": "3分钟生成4万字，超高速AI写作工具",
       "category": "AI写作",
-      "url": "",
+      "url": "https://wannengxiaoin.com",
       "iconType": "text",
       "iconText": "万",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -905,7 +905,7 @@
       "name": "墨问",
       "description": "为创作者设计的AI写作工具",
       "category": "AI写作",
-      "url": "",
+      "url": "https://mowen.com",
       "iconType": "text",
       "iconText": "墨",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -915,7 +915,7 @@
       "name": "材料星AI",
       "description": "为文秘工作设计的AI写作工具",
       "category": "AI写作",
-      "url": "",
+      "url": "https://cailiaoxing.com",
       "iconType": "text",
       "iconText": "材",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -925,7 +925,7 @@
       "name": "FeelFish",
       "description": "为小说创作者设计的AI写作工具",
       "category": "AI写作",
-      "url": "",
+      "url": "https://feelfish.com",
       "iconType": "text",
       "iconText": "F",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -935,7 +935,7 @@
       "name": "Loomi",
       "description": "Claude Code创作版本，AI代码和内容生成",
       "category": "AI写作",
-      "url": "",
+      "url": "https://loomi.ai",
       "iconType": "text",
       "iconText": "L",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -945,7 +945,7 @@
       "name": "落笔AI写作",
       "description": "专注在线小说创作的AI写作工具",
       "category": "AI写作",
-      "url": "",
+      "url": "https://luobiai.com",
       "iconType": "text",
       "iconText": "落",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -955,7 +955,7 @@
       "name": "ReadPo",
       "description": "AI阅读和写作助手，内容创作工具",
       "category": "AI写作",
-      "url": "",
+      "url": "https://readpo.com",
       "iconType": "text",
       "iconText": "R",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -965,7 +965,7 @@
       "name": "小鱼AI写作",
       "description": "一站式AI写作平台，多场景写作工具",
       "category": "AI写作",
-      "url": "",
+      "url": "https://xiaoyuai.com",
       "iconType": "text",
       "iconText": "小",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -975,7 +975,7 @@
       "name": "量子探险",
       "description": "AI小说写作工具，创意小说生成",
       "category": "AI写作",
-      "url": "",
+      "url": "https://quantumexplore.com",
       "iconType": "text",
       "iconText": "量",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -985,7 +985,7 @@
       "name": "社研通",
       "description": "专注服务科研的AI写作工具",
       "category": "AI写作",
-      "url": "",
+      "url": "https://sheyan.com",
       "iconType": "text",
       "iconText": "社",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -995,7 +995,7 @@
       "name": "Rubriq",
       "description": "免费试用AI学术工具，论文写作助手",
       "category": "AI写作",
-      "url": "",
+      "url": "https://rubriq.com",
       "iconType": "text",
       "iconText": "R",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -1005,7 +1005,7 @@
       "name": "QuillBot",
       "description": "AI英文/德文写作润色工具，文本优化",
       "category": "AI写作",
-      "url": "",
+      "url": "https://quillbot.com",
       "iconType": "text",
       "iconText": "Q",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -1015,7 +1015,7 @@
       "name": "GitHub Copilot",
       "description": "基于OpenAI Codex的代码助手，集成于VS Code、JetBrains等IDE，支持实时代码补全",
       "category": "AI编程",
-      "url": "",
+      "url": "https://github.com",
       "iconType": "text",
       "iconText": "G",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -1025,7 +1025,7 @@
       "name": "CodeLlama",
       "description": "开源代码大模型，支持Python、Java、C++等多语言，可本地化部署",
       "category": "AI编程",
-      "url": "",
+      "url": "https://ai.meta.com",
       "iconType": "text",
       "iconText": "C",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -1035,7 +1035,7 @@
       "name": "Cursor",
       "description": "专为程序员设计的AI代码编辑器，内置GPT-4，支持自然语言生成代码、重构代码",
       "category": "AI编程",
-      "url": "",
+      "url": "https://cursor.com",
       "iconType": "text",
       "iconText": "C",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -1045,7 +1045,7 @@
       "name": "v0.dev",
       "description": "Vercel推出的生成UI组件的AI",
       "category": "AI编程",
-      "url": "",
+      "url": "https://v0.dev",
       "iconType": "text",
       "iconText": "V",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -1055,7 +1055,7 @@
       "name": "Tabnine",
       "description": "专注于隐私和安全的代码补全工具",
       "category": "AI编程",
-      "url": "",
+      "url": "https://tabnine.com",
       "iconType": "text",
       "iconText": "T",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -1065,7 +1065,7 @@
       "name": "Whisper",
       "description": "开源语音识别模型，支持多语言转写、实时字幕生成、语音翻译，可本地化部署",
       "category": "AI语音",
-      "url": "",
+      "url": "https://openai.com",
       "iconType": "text",
       "iconText": "W",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -1075,7 +1075,7 @@
       "name": "ElevenLabs",
       "description": "高拟真度语音合成工具，支持多语言、多音色生成，可克隆自定义声音",
       "category": "AI语音",
-      "url": "",
+      "url": "https://elevenlabs.io",
       "iconType": "text",
       "iconText": "E",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -1085,7 +1085,7 @@
       "name": "讯飞听见",
       "description": "国内语音技术工具，支持实时语音转文字、多语种翻译、语音合成",
       "category": "AI语音",
-      "url": "",
+      "url": "https://iflyrec.com",
       "iconType": "text",
       "iconText": "讯",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -1095,7 +1095,7 @@
       "name": "Descript",
       "description": "音频/视频编辑工具，支持AI配音、自动字幕生成、语音转文字",
       "category": "AI语音",
-      "url": "",
+      "url": "https://descript.com",
       "iconType": "text",
       "iconText": "D",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -1105,7 +1105,7 @@
       "name": "网易天音",
       "description": "中文音乐生成工具，支持文本生音乐、旋律定制，适配广告、短视频配乐",
       "category": "AI语音",
-      "url": "",
+      "url": "https://music.163.com",
       "iconType": "text",
       "iconText": "网",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -1115,7 +1115,7 @@
       "name": "Krisp",
       "description": "AI降噪工具，支持实时消除会议、直播中的背景噪音",
       "category": "AI语音",
-      "url": "",
+      "url": "https://krisp.ai",
       "iconType": "text",
       "iconText": "K",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -1125,7 +1125,7 @@
       "name": "Tableau GPT",
       "description": "集成AI能力的数据分析工具，支持自然语言查询数据、自动生成可视化图表",
       "category": "数据文档",
-      "url": "",
+      "url": "https://tableau.com",
       "iconType": "text",
       "iconText": "T",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -1135,7 +1135,7 @@
       "name": "ChatDOC",
       "description": "专注PDF文档智能分析，支持上传文档后通过自然语言提问，快速提取关键信息",
       "category": "数据文档",
-      "url": "",
+      "url": "https://chatdoc.com",
       "iconType": "text",
       "iconText": "C",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -1145,7 +1145,7 @@
       "name": "RapidMiner",
       "description": "企业级AI数据分析平台，支持机器学习模型构建、数据预处理、自动化分析流程",
       "category": "数据文档",
-      "url": "",
+      "url": "https://rapidminer.com",
       "iconType": "text",
       "iconText": "R",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -1155,7 +1155,7 @@
       "name": "Power BI GPT",
       "description": "微软数据分析工具，支持自然语言查询数据、自动生成可视化报表",
       "category": "数据文档",
-      "url": "",
+      "url": "https://powerbi.microsoft.com",
       "iconType": "text",
       "iconText": "P",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -1165,7 +1165,7 @@
       "name": "阿里云DataWorks AI",
       "description": "大数据开发平台，支持AI驱动的数据清洗、SQL生成、任务调度",
       "category": "数据文档",
-      "url": "",
+      "url": "https://aliyun.com",
       "iconType": "text",
       "iconText": "阿",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -1175,7 +1175,7 @@
       "name": "Mendeley",
       "description": "学术文献管理工具，支持AI辅助文献检索、引用生成，适配科研团队与高校",
       "category": "数据文档",
-      "url": "",
+      "url": "https://mendeley.com",
       "iconType": "text",
       "iconText": "M",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -1185,7 +1185,7 @@
       "name": "Ollama",
       "description": "轻量级大模型部署工具，支持一键运行Llama 3、Phi-3、Qwen等开源模型",
       "category": "本地部署",
-      "url": "",
+      "url": "https://ollama.com",
       "iconType": "text",
       "iconText": "O",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -1195,7 +1195,7 @@
       "name": "LM Studio",
       "description": "可视化大模型管理工具，支持下载、运行、微调开源大模型",
       "category": "本地部署",
-      "url": "",
+      "url": "https://lmstudio.ai",
       "iconType": "text",
       "iconText": "L",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -1205,7 +1205,7 @@
       "name": "vLLM",
       "description": "高性能大模型推理框架，主打高吞吐量、低延迟，支持主流开源模型",
       "category": "本地部署",
-      "url": "",
+      "url": "https://vllm.ai",
       "iconType": "text",
       "iconText": "V",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -1215,7 +1215,7 @@
       "name": "LangChain",
       "description": "开源大模型应用开发框架，支持构建AI智能体、链式对话、知识库集成",
       "category": "智能体",
-      "url": "",
+      "url": "https://langchain.com",
       "iconType": "text",
       "iconText": "L",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -1225,7 +1225,7 @@
       "name": "Zapier AI",
       "description": "自动化工作流平台，支持AI触发条件、自然语言生成工作流，连接2000+应用",
       "category": "智能体",
-      "url": "",
+      "url": "https://zapier.com",
       "iconType": "text",
       "iconText": "Z",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -1235,7 +1235,7 @@
       "name": "Make",
       "description": "可视化工作流工具，支持AI驱动的流程自动化，适合非技术人员快速搭建业务流程",
       "category": "智能体",
-      "url": "",
+      "url": "https://make.com",
       "iconType": "text",
       "iconText": "M",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -1245,7 +1245,7 @@
       "name": "Microsoft Copilot",
       "description": "集成于Office全家桶（Word/Excel/PowerPoint），支持自然语言生成文档、分析数据",
       "category": "效率工具",
-      "url": "",
+      "url": "https://copilot.microsoft.com",
       "iconType": "text",
       "iconText": "M",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -1255,7 +1255,7 @@
       "name": "飞书智能助手",
       "description": "飞书生态AI工具，支持会议纪要自动生成、文档摘要、任务管理",
       "category": "效率工具",
-      "url": "",
+      "url": "https://larksuite.com",
       "iconType": "text",
       "iconText": "飞",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -1265,7 +1265,7 @@
       "name": "钉钉AI",
       "description": "阿里钉钉内置AI，支持审批流程自动化、数据报表生成、智能客服",
       "category": "效率工具",
-      "url": "",
+      "url": "https://dingtalk.com",
       "iconType": "text",
       "iconText": "钉",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -1275,7 +1275,7 @@
       "name": "Notion AI",
       "description": "集成AI功能的笔记和协作工具",
       "category": "效率工具",
-      "url": "",
+      "url": "https://notion.so",
       "iconType": "text",
       "iconText": "N",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -1285,7 +1285,7 @@
       "name": "AiPPT",
       "description": "AI快速生成高质量PPT",
       "category": "效率工具",
-      "url": "",
+      "url": "https://aippt.com",
       "iconType": "text",
       "iconText": "A",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -1295,7 +1295,7 @@
       "name": "扣子PPT",
       "description": "AI PPT生成工具，快速创建演示文稿",
       "category": "效率工具",
-      "url": "",
+      "url": "https://kouzippt.com",
       "iconType": "text",
       "iconText": "扣",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -1305,7 +1305,7 @@
       "name": "咔片PPT",
       "description": "AI PPT生成工具，智能演示文稿创作",
       "category": "效率工具",
-      "url": "",
+      "url": "https://kapippt.com",
       "iconType": "text",
       "iconText": "咔",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -1315,7 +1315,7 @@
       "name": "文多多AIPPT",
       "description": "AI PPT生成工具，文档和演示文稿创作",
       "category": "效率工具",
-      "url": "",
+      "url": "https://wenduduo.com",
       "iconType": "text",
       "iconText": "文",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -1325,7 +1325,7 @@
       "name": "iSlide AIPPT",
       "description": "iSlide AI PPT生成工具，专业演示文稿",
       "category": "效率工具",
-      "url": "",
+      "url": "https://islide.cc",
       "iconType": "text",
       "iconText": "I",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -1335,7 +1335,7 @@
       "name": "博思AIPPT",
       "description": "AI PPT生成工具，智能演示文稿创作",
       "category": "效率工具",
-      "url": "",
+      "url": "https://bosiappt.com",
       "iconType": "text",
       "iconText": "博",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -1345,7 +1345,7 @@
       "name": "秘塔AI搜索",
       "description": "最好用的AI搜索工具，没有广告，直达结果",
       "category": "效率工具",
-      "url": "",
+      "url": "https://metaso.cn",
       "iconType": "text",
       "iconText": "秘",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -1355,7 +1355,7 @@
       "name": "办公小浣熊",
       "description": "最强AI数据分析助手",
       "category": "效率工具",
-      "url": "",
+      "url": "https://officexiong.com",
       "iconType": "text",
       "iconText": "办",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -1365,7 +1365,7 @@
       "name": "OpenAI Content Moderation",
       "description": "内容审核API，支持检测文本、图像中的违规内容，适配社区、电商等平台",
       "category": "安全合规",
-      "url": "",
+      "url": "https://platform.openai.com",
       "iconType": "text",
       "iconText": "O",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -1375,7 +1375,7 @@
       "name": "腾讯云内容安全",
       "description": "国内合规内容审核工具，支持文本、图像、音频、视频检测",
       "category": "安全合规",
-      "url": "",
+      "url": "https://cloud.tencent.com",
       "iconType": "text",
       "iconText": "腾",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -1385,7 +1385,7 @@
       "name": "Deepfake Detection",
       "description": "深度伪造检测工具，支持识别AI生成的人脸、视频，适合媒体、金融等行业",
       "category": "安全合规",
-      "url": "",
+      "url": "https://microsoft.com",
       "iconType": "text",
       "iconText": "D",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -1395,7 +1395,7 @@
       "name": "VS Code",
       "description": "微软开发的免费代码编辑器，功能强大且可扩展",
       "category": "开发工具",
-      "url": "",
+      "url": "https://code.visualstudio.com",
       "iconType": "text",
       "iconText": "V",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -1405,7 +1405,7 @@
       "name": "Vite",
       "description": "极速的前端构建工具",
       "category": "开发工具",
-      "url": "",
+      "url": "https://vitejs.dev",
       "iconType": "text",
       "iconText": "V",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -1415,7 +1415,7 @@
       "name": "Vercel",
       "description": "前端托管与部署的最佳选择",
       "category": "开发工具",
-      "url": "",
+      "url": "https://vercel.com",
       "iconType": "text",
       "iconText": "V",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -1425,7 +1425,7 @@
       "name": "GitHub",
       "description": "全球最大的代码托管平台",
       "category": "开发工具",
-      "url": "",
+      "url": "https://github.com",
       "iconType": "text",
       "iconText": "G",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -1435,7 +1435,7 @@
       "name": "Figma",
       "description": "强大的在线设计工具，支持团队协作",
       "category": "设计工具",
-      "url": "",
+      "url": "https://figma.com",
       "iconType": "text",
       "iconText": "F",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -1445,7 +1445,7 @@
       "name": "Excalidraw",
       "description": "手绘风格的在线白板工具",
       "category": "设计工具",
-      "url": "",
+      "url": "https://excalidraw.com",
       "iconType": "text",
       "iconText": "E",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -1455,7 +1455,7 @@
       "name": "TRAE编程",
       "description": "AI编程IDE，智能代码生成和辅助开发",
       "category": "AI编程",
-      "url": "",
+      "url": "https://trae.ai",
       "iconType": "text",
       "iconText": "T",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -1465,7 +1465,7 @@
       "name": "秒哒",
       "description": "无代码AI应用开发平台，快速构建AI应用",
       "category": "效率工具",
-      "url": "",
+      "url": "https://miaoda.ai",
       "iconType": "text",
       "iconText": "秒",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -1475,7 +1475,7 @@
       "name": "响指HaiSnap",
       "description": "AI零代码应用开发平台，一键生成应用",
       "category": "效率工具",
-      "url": "",
+      "url": "https://haisnap.com",
       "iconType": "text",
       "iconText": "响",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -1485,7 +1485,7 @@
       "name": "Flowith",
       "description": "免费使用Gemini 3，一站式AI创作工具",
       "category": "AI工具",
-      "url": "",
+      "url": "https://flowith.com",
       "iconType": "text",
       "iconText": "F",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -1495,7 +1495,7 @@
       "name": "SpeedAI",
       "description": "AI研究助手，快速获取研究资料和文献",
       "category": "数据文档",
-      "url": "",
+      "url": "https://speedai.com",
       "iconType": "text",
       "iconText": "S",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -1505,7 +1505,7 @@
       "name": "视觉工厂",
       "description": "AI创作工具，支持图像和视频生成",
       "category": "AI图像",
-      "url": "",
+      "url": "https://visualfactory.ai",
       "iconType": "text",
       "iconText": "视",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -1515,7 +1515,7 @@
       "name": "MetaLaw",
       "description": "AI法律案例检索工具，快速查找相关案例",
       "category": "效率工具",
-      "url": "",
+      "url": "https://metalaw.ai",
       "iconType": "text",
       "iconText": "M",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -1525,7 +1525,7 @@
       "name": "MonkeyCode",
       "description": "长亭科技开源AI工具，智能代码生成",
       "category": "AI编程",
-      "url": "",
+      "url": "https://monkeycode.ai",
       "iconType": "text",
       "iconText": "M",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -1535,7 +1535,7 @@
       "name": "YouWare",
       "description": "一站式AI编程社区，代码分享和学习",
       "category": "AI编程",
-      "url": "",
+      "url": "https://youware.ai",
       "iconType": "text",
       "iconText": "Y",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -1545,7 +1545,7 @@
       "name": "TurboScribe",
       "description": "专业AI音视频转文字工具，支持多语言",
       "category": "AI语音",
-      "url": "",
+      "url": "https://turboscribe.ai",
       "iconType": "text",
       "iconText": "T",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"

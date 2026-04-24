@@ -9,7 +9,7 @@
       "id": "promptbase-0",
       "name": "PromptBase",
       "description": "提示词交易市场，覆盖多模型，可购买高质量prompt，支持定制化需求",
-      "url": "",
+      "url": "https://promptbase.com",
       "iconType": "text",
       "iconText": "P",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -18,7 +18,7 @@
       "id": "flowgpt-1",
       "name": "FlowGPT",
       "description": "文本提示词社区，200+场景模板，支持中文，社区投票筛选优质prompt，免费共享",
-      "url": "",
+      "url": "https://flowgpt.com",
       "iconType": "text",
       "iconText": "F",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -27,7 +27,7 @@
       "id": "prompthero-2",
       "name": "PromptHero",
       "description": "综合提示词社区，支持多模型（SD/MJ/ChatGPT），图文对照+参数，可按风格/艺术家筛选",
-      "url": "",
+      "url": "https://prompthero.com",
       "iconType": "text",
       "iconText": "P",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -36,7 +36,7 @@
       "id": "promptperfect-3",
       "name": "PromptPerfect",
       "description": "提示词优化工具，将简单需求升级为精准prompt，适配ChatGPT/LLaMA等",
-      "url": "",
+      "url": "https://promptperfect.jina.ai",
       "iconType": "text",
       "iconText": "P",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -45,7 +45,7 @@
       "id": "awesome-chatgpt-prompts-4",
       "name": "Awesome ChatGPT Prompts",
       "description": "GitHub上最受欢迎的ChatGPT Prompt集合",
-      "url": "",
+      "url": "https://github.com",
       "iconType": "text",
       "iconText": "A",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -54,7 +54,7 @@
       "id": "promptvine-5",
       "name": "PromptVine",
       "description": "精选的AI Prompt集合，按类别组织",
-      "url": "",
+      "url": "https://promptvine.com",
       "iconType": "text",
       "iconText": "P",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -63,7 +63,7 @@
       "id": "snack-prompt-6",
       "name": "Snack Prompt",
       "description": "每日更新的AI Prompt库，包含各种实用场景",
-      "url": "",
+      "url": "https://snackprompt.com",
       "iconType": "text",
       "iconText": "S",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -72,7 +72,7 @@
       "id": "public-prompts-7",
       "name": "Public Prompts",
       "description": "免费开源的AI艺术Prompt集合",
-      "url": "",
+      "url": "https://publicprompts.art",
       "iconType": "text",
       "iconText": "P",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -81,7 +81,7 @@
       "id": "prompt-engineering-guide-8",
       "name": "Prompt Engineering Guide",
       "description": "Prompt工程完整指南，学习如何编写有效的Prompt",
-      "url": "",
+      "url": "https://promptingguide.ai",
       "iconType": "text",
       "iconText": "P",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -90,7 +90,7 @@
       "id": "learn-prompting-9",
       "name": "Learn Prompting",
       "description": "免费的Prompt工程课程，从入门到高级",
-      "url": "",
+      "url": "https://learnprompting.org",
       "iconType": "text",
       "iconText": "L",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -99,7 +99,7 @@
       "id": "promptgenius-10",
       "name": "PromptGenius",
       "description": "AI Prompt生成器，帮助你创建更好的Prompt",
-      "url": "",
+      "url": "https://promptgenius.ai",
       "iconType": "text",
       "iconText": "P",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -108,7 +108,7 @@
       "id": "chatx-11",
       "name": "ChatX",
       "description": "ChatGPT Prompt模板库，包含各种场景的预设Prompt",
-      "url": "",
+      "url": "https://chatx.ai",
       "iconType": "text",
       "iconText": "C",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -117,7 +117,7 @@
       "id": "lexica-12",
       "name": "Lexica",
       "description": "SD图像提示词解析，Stable Diffusion专属，海量图片-提示词对照，免费高清图下载",
-      "url": "",
+      "url": "https://lexica.art",
       "iconType": "text",
       "iconText": "L",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -126,7 +126,7 @@
       "id": "aishort-快捷指令-13",
       "name": "AiShort（快捷指令）",
       "description": "中文提示词工具集，简洁分类，支持搜索/筛选，适配国内常用模型，一键复制",
-      "url": "",
+      "url": "https://aishort.top",
       "iconType": "text",
       "iconText": "A",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -135,7 +135,7 @@
       "id": "anthropic-prompt-library-14",
       "name": "Anthropic Prompt Library",
       "description": "Claude专属提示库，官方定制，覆盖多场景，适配Claude技能开发",
-      "url": "",
+      "url": "https://docs.anthropic.com",
       "iconType": "text",
       "iconText": "A",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -144,7 +144,7 @@
       "id": "promptminder-15",
       "name": "PromptMinder",
       "description": "团队提示词管理，类Git版本控制，权限管理，支持私有部署",
-      "url": "",
+      "url": "https://prompt-minder.com",
       "iconType": "text",
       "iconText": "P",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -153,7 +153,7 @@
       "id": "promptomania-16",
       "name": "PromptoMANIA",
       "description": "图像提示词生成器，可视化构建prompt，支持参数微调，适配SD/MJ",
-      "url": "",
+      "url": "https://promptomania.com",
       "iconType": "text",
       "iconText": "P",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -162,7 +162,7 @@
       "id": "krea-ai-17",
       "name": "Krea.ai",
       "description": "设计师灵感平台，视觉化界面，分类浏览，支持专业领域提示词",
-      "url": "",
+      "url": "https://krea.ai",
       "iconType": "text",
       "iconText": "K",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"

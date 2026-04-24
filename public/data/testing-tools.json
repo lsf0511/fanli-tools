@@ -17,7 +17,7 @@
       "name": "Postman",
       "description": "接口调试入门神器，支持请求编写、集合管理、Mock，可导出用例做自动化基础，生态完善",
       "category": "接口/自动化测试工具",
-      "url": "",
+      "url": "https://postman.com",
       "iconType": "text",
       "iconText": "P",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -27,7 +27,7 @@
       "name": "JMeter",
       "description": "Apache开源，多协议适配（HTTP/HTTPS/JDBC/MQ），兼顾接口自动化+性能测试，易二次开发",
       "category": "接口/自动化测试工具",
-      "url": "",
+      "url": "https://jmeter.apache.org",
       "iconType": "text",
       "iconText": "J",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -37,7 +37,7 @@
       "name": "Playwright",
       "description": "微软开源，跨浏览器自动化（Chrome/Firefox/Edge），API+UI一体化测试，多语言支持，稳定性远超Selenium，AI测试落地首选UI框架",
       "category": "接口/自动化测试工具",
-      "url": "",
+      "url": "https://playwright.dev",
       "iconType": "text",
       "iconText": "P",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -47,7 +47,7 @@
       "name": "RestAssured",
       "description": "Java系接口自动化框架，语法简洁，无缝适配JUnit/TestNG，适合集成到测试平台做接口自动化引擎",
       "category": "接口/自动化测试工具",
-      "url": "",
+      "url": "https://rest-assured.io",
       "iconType": "text",
       "iconText": "R",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -57,7 +57,7 @@
       "name": "Selenium",
       "description": "经典UI自动化框架，生态最成熟，支持多浏览器/多语言，适合简单场景，可结合AI优化动态元素定位",
       "category": "接口/自动化测试工具",
-      "url": "",
+      "url": "https://selenium.dev",
       "iconType": "text",
       "iconText": "S",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -67,7 +67,7 @@
       "name": "HttpRunner",
       "description": "国内开源，基于Python/Go，支持接口自动化测试，用例支持YAML/JSON/Go，易集成CI/CD",
       "category": "接口/自动化测试工具",
-      "url": "",
+      "url": "https://httprunner.com",
       "iconType": "text",
       "iconText": "H",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -77,7 +77,7 @@
       "name": "Apifox",
       "description": "API设计、开发、测试一体化协作平台，集API文档管理、接口调试、Mock数据生成、自动化测试于一体，国产工具，适合团队协作",
       "category": "接口/自动化测试工具",
-      "url": "",
+      "url": "https://apifox.cn",
       "iconType": "text",
       "iconText": "A",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -87,7 +87,7 @@
       "name": "Apipost",
       "description": "API文档、设计、调试、自动化测试一体化协作平台，支持API设计与生成、调试验证、自动化测试与性能测试、文档生成与共享，国产工具",
       "category": "接口/自动化测试工具",
-      "url": "",
+      "url": "https://apipost.cn",
       "iconType": "text",
       "iconText": "A",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -97,7 +97,7 @@
       "name": "Locust",
       "description": "Python开源，分布式性能测试工具，代码化编写用例，灵活性高，适合定制化高并发场景",
       "category": "性能测试工具",
-      "url": "",
+      "url": "https://locust.io",
       "iconType": "text",
       "iconText": "L",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -107,7 +107,7 @@
       "name": "LoadRunner",
       "description": "商用老牌性能测试工具，功能全，支持复杂高并发/分布式场景，适配大型企业级项目性能压测",
       "category": "性能测试工具",
-      "url": "",
+      "url": "https://microfocus.com",
       "iconType": "text",
       "iconText": "L",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -117,7 +117,7 @@
       "name": "Gatling",
       "description": "基于Scala的高性能压测工具，异步非阻塞架构，压测效率高，适合高并发场景，报告可视化优秀",
       "category": "性能测试工具",
-      "url": "",
+      "url": "https://gatling.io",
       "iconType": "text",
       "iconText": "G",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -127,7 +127,7 @@
       "name": "OWASP ZAP",
       "description": "OWASP官方推荐，Web应用漏洞扫描神器，支持主动/被动扫描，可集成CI/CD，开源免费",
       "category": "安全测试工具",
-      "url": "",
+      "url": "https://zaproxy.org",
       "iconType": "text",
       "iconText": "O",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -137,7 +137,7 @@
       "name": "Burp Suite",
       "description": "渗透测试必备，支持Web/移动端漏洞扫描、抓包、漏洞利用，社区版免费，专业版功能全",
       "category": "安全测试工具",
-      "url": "",
+      "url": "https://portswigger.net",
       "iconType": "text",
       "iconText": "B",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -147,7 +147,7 @@
       "name": "Nessus",
       "description": "经典跨平台漏洞扫描工具，支持主机/网络/应用层扫描，社区版免费，满足日常安全测试需求",
       "category": "安全测试工具",
-      "url": "",
+      "url": "https://tenable.com",
       "iconType": "text",
       "iconText": "N",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -157,7 +157,7 @@
       "name": "SQLMap",
       "description": "开源自动化SQL注入工具，检测并利用SQL注入漏洞，支持多种数据库，安全测试必备",
       "category": "安全测试工具",
-      "url": "",
+      "url": "https://sqlmap.org",
       "iconType": "text",
       "iconText": "S",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -167,7 +167,7 @@
       "name": "禅道",
       "description": "国产一站式项目管理工具，适配国内团队流程，集项目/用例/缺陷/发布管理于一体，开源版免费",
       "category": "缺陷/用例管理工具",
-      "url": "",
+      "url": "https://zentao.net",
       "iconType": "text",
       "iconText": "禅",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -177,7 +177,7 @@
       "name": "Jira",
       "description": "国际主流项目/缺陷跟踪工具，可安装Test Management插件扩展用例管理，易集成各类测试工具",
       "category": "缺陷/用例管理工具",
-      "url": "",
+      "url": "https://atlassian.com",
       "iconType": "text",
       "iconText": "J",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -187,7 +187,7 @@
       "name": "TestRail",
       "description": "专业测试用例管理工具，用例分层管理、报告自动化生成，无缝集成Jira/GitHub，适配团队协作",
       "category": "缺陷/用例管理工具",
-      "url": "",
+      "url": "https://gurock.com",
       "iconType": "text",
       "iconText": "T",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -197,7 +197,7 @@
       "name": "TestLink",
       "description": "纯开源测试用例管理工具，专注用例编写、执行、跟踪，轻量易部署，适合小型团队/个人项目",
       "category": "缺陷/用例管理工具",
-      "url": "",
+      "url": "https://testlink.org",
       "iconType": "text",
       "iconText": "T",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -207,7 +207,7 @@
       "name": "Redmine",
       "description": "轻量开源项目管理工具，支持缺陷跟踪、用例管理，可自定义字段，适配个性化流程",
       "category": "缺陷/用例管理工具",
-      "url": "",
+      "url": "https://redmine.org",
       "iconType": "text",
       "iconText": "R",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -217,7 +217,7 @@
       "name": "Appium",
       "description": "跨平台移动端自动化框架，支持iOS/Android，基于Selenium内核，多语言支持，适配原生/混合/小程序",
       "category": "移动端测试工具",
-      "url": "",
+      "url": "https://appium.io",
       "iconType": "text",
       "iconText": "A",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -227,7 +227,7 @@
       "name": "Charles",
       "description": "经典跨平台抓包工具，调试移动端接口、定位网络问题，支持断点、重放，移动端测试必备",
       "category": "移动端测试工具",
-      "url": "",
+      "url": "https://charlesproxy.com",
       "iconType": "text",
       "iconText": "C",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -237,7 +237,7 @@
       "name": "Fiddler",
       "description": "Windows端轻量抓包工具，操作简单，支持接口调试、数据篡改，适合快速定位移动端网络问题",
       "category": "移动端测试工具",
-      "url": "",
+      "url": "https://telerik.com",
       "iconType": "text",
       "iconText": "F",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -247,7 +247,7 @@
       "name": "MonkeyRunner",
       "description": "Android官方开源工具，支持移动端自动化操作、简单压力测试，适配Android原生应用",
       "category": "移动端测试工具",
-      "url": "",
+      "url": "https://developer.android.com",
       "iconType": "text",
       "iconText": "M",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -257,7 +257,7 @@
       "name": "ATX（Airtest）",
       "description": "国内开源移动端自动化测试框架，基于图像识别，操作简单，适合快速生成移动端用例",
       "category": "移动端测试工具",
-      "url": "",
+      "url": "https://airtest.netease.com",
       "iconType": "text",
       "iconText": "A",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -267,7 +267,7 @@
       "name": "Testim",
       "description": "AI驱动的自动化测试工具，自动识别页面元素、生成测试用例，支持用例自愈（元素变化自动更新），大幅减少维护成本",
       "category": "AI测试专属工具",
-      "url": "",
+      "url": "https://testim.io",
       "iconType": "text",
       "iconText": "T",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -277,7 +277,7 @@
       "name": "TestGPT",
       "description": "专门的测试AI工具，基于大模型生成高覆盖度测试用例、优化用例设计、分析缺陷趋势、生成测试报告",
       "category": "AI测试专属工具",
-      "url": "",
+      "url": "https://testgpt.ai",
       "iconType": "text",
       "iconText": "T",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -287,7 +287,7 @@
       "name": "Selenium IDE AI插件",
       "description": "为Selenium IDE增强AI能力，自动补全断言、识别动态元素、优化录制用例，快速生成可复用自动化用例",
       "category": "AI测试专属工具",
-      "url": "",
+      "url": "https://selenium.dev",
       "iconType": "text",
       "iconText": "S",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -297,7 +297,7 @@
       "name": "Applitools",
       "description": "AI视觉测试工具，基于图像对比检测UI缺陷，支持跨浏览器/跨设备，解决传统UI自动化元素定位痛点",
       "category": "AI测试专属工具",
-      "url": "",
+      "url": "https://applitools.com",
       "iconType": "text",
       "iconText": "A",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -307,7 +307,7 @@
       "name": "Testimonio",
       "description": "AI缺陷根因分析工具，自动分析缺陷日志、定位问题根源，生成解决方案，提升缺陷排查效率",
       "category": "AI测试专属工具",
-      "url": "",
+      "url": "https://testimonio.ai",
       "iconType": "text",
       "iconText": "T",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -317,7 +317,7 @@
       "name": "GitHub Copilot",
       "description": "AI代码助手，支持编写自动化测试代码（Python/Java/JS），自动补全用例、断言、框架代码，减少编码工作量",
       "category": "AI测试专属工具",
-      "url": "",
+      "url": "https://github.com",
       "iconType": "text",
       "iconText": "G",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"

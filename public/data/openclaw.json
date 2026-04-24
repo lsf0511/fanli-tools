@@ -15,7 +15,7 @@
       "name": "OpenClaw 官方文档",
       "description": "完整配置、技能开发、安全指南、入门向导",
       "category": "官方权威",
-      "url": "",
+      "url": "https://docs.openclaw.ai",
       "iconType": "text",
       "iconText": "O",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -25,7 +25,7 @@
       "name": "OpenClaw GitHub 主仓",
       "description": "源码、CLI 命令、部署脚本、更新日志",
       "category": "官方权威",
-      "url": "",
+      "url": "https://github.com",
       "iconType": "text",
       "iconText": "O",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -35,7 +35,7 @@
       "name": "ClawHub（技能仓库）",
       "description": "官方技能商店，700+ 现成技能，开发模板",
       "category": "官方权威",
-      "url": "",
+      "url": "https://clawhub.com",
       "iconType": "text",
       "iconText": "C",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -45,7 +45,7 @@
       "name": "OpenClaw 官方博客",
       "description": "路线图、最佳实践、版本更新动态",
       "category": "官方权威",
-      "url": "",
+      "url": "https://openclaw.ai",
       "iconType": "text",
       "iconText": "O",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -55,7 +55,7 @@
       "name": "OpenClaw 101",
       "description": "7 天入门路径，35+ 中英文教程聚合",
       "category": "中文精选",
-      "url": "",
+      "url": "https://openclaw101.dev",
       "iconType": "text",
       "iconText": "O",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -65,7 +65,7 @@
       "name": "OpenClaw 中文文档",
       "description": "快速入门、CLI 向导、认证配置（中文）",
       "category": "中文精选",
-      "url": "",
+      "url": "https://holtchas.github.io",
       "iconType": "text",
       "iconText": "O",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
@@ -75,7 +75,7 @@
       "name": "灵缇 OpenClaw 中文站",
       "description": "中文部署指南、多平台接入教程",
       "category": "中文精选",
-      "url": "",
+      "url": "https://code.lingti.com",
       "iconType": "text",
       "iconText": "灵",
       "iconBg": "linear-gradient(135deg, #7B61FF, #4F2FCF)"
@@ -85,7 +85,7 @@
       "name": "腾讯云开发者社区",
       "description": "汉化版搭建、国内云部署技巧",
       "category": "中文精选",
-      "url": "",
+      "url": "https://cloud.tencent.com",
       "iconType": "text",
       "iconText": "腾",
       "iconBg": "linear-gradient(135deg, #FF6B1A, #CC5414)"
@@ -95,7 +95,7 @@
       "name": "Shuwoom 架构分析",
       "description": "OpenClaw 插件系统、多 Agent 协作原理拆解",
       "category": "技能开发与进阶",
-      "url": "",
+      "url": "https://shuwoom.com",
       "iconType": "text",
       "iconText": "S",
       "iconBg": "linear-gradient(135deg, #2FB8FF, #1980CC)"
@@ -105,7 +105,7 @@
       "name": "OpenClaw Windows 适配",
       "description": "系统托盘、PowerToys 集成、WSL2 部署参考",
       "category": "技能开发与进阶",
-      "url": "",
+      "url": "https://github.com",
       "iconType": "text",
       "iconText": "O",
       "iconBg": "linear-gradient(135deg, #FF4FB8, #CC2F80)"
@@ -115,7 +115,7 @@
       "name": "DataCamp 教程",
       "description": "WhatsApp 控制电脑、定时任务配置",
       "category": "英文进阶",
-      "url": "",
+      "url": "https://datacamp.com",
       "iconType": "text",
       "iconText": "D",
       "iconBg": "linear-gradient(135deg, #2FCC66, #1F9950)"
@@ -125,7 +125,7 @@
       "name": "HackerNoon 入门",
       "description": "安装步骤、本地部署安全加固",
       "category": "英文进阶",
-      "url": "",
+      "url": "https://hackernoon.com",
       "iconType": "text",
       "iconText": "H",
       "iconBg": "linear-gradient(135deg, #FFD54F, #CCA938)"
